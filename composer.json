@@ -25,6 +25,12 @@
             "homepage": "http://davidllop.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:unetvale/laravel-onesignal"
+        }
+    ],
     "require": {
         "php": "^7.2.0|^8.0",
         "berkayk/onesignal-laravel": "^1.0.0",
